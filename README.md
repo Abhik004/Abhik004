@@ -2,8 +2,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Abhik Samanta, <b>CSE</b> from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Hooghly, West Bengal</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Bhubaneswar, Odisha</b>.
-Pursing B.tech CSE 💻 at <b>Kalinga Institute of Industrial Technology</b> </p>
+<p>Welcome to my page! </br> I'm Abhik Samanta, <b>CSE</b> from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Hooghly, West Bengal</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Bhubaneswar, Odisha</b>.</p>
+<p>Pursing B.tech CSE 💻 at <b>Kalinga Institute of Industrial Technology</b> </p>
 
 <h3>Things I code with ~📜</h3>
 
