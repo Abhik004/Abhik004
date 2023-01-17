@@ -18,13 +18,15 @@
 <p><a href="https://github.com/Abhik004" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/abhik-samanta2004/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="abhiksamanta004@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
 ------------
-<h2>👀 Stats</h2>
+<h2>Stats 👀</h2>
 
 <div>
   <p align="center">
    
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhik004&theme=dracula" alt="mystreak"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhik004&theme=tokyonight" alt="mystreak"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=abhik004&show_icons=true&theme=tokyonight">
+
  
   </p>
 </div>
