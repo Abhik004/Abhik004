@@ -24,8 +24,8 @@
   <p align="center">
    
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhik004&theme=tokyonight" alt="mystreak" width="475" height="450">
-   <img src="https://github-readme-stats.vercel.app/api?username=abhik004&show_icons=true&theme=tokyonight" width="475" height="450">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhik004&theme=tokyonight" alt="mystreak" >
+   <img src="https://github-readme-stats.vercel.app/api?username=abhik004&show_icons=true&theme=tokyonight" >
 
  
   </p>
