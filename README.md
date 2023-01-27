@@ -13,7 +13,7 @@
 
 
 
-<h3>Where to find me:~🧐 </h3>
+<h3>🧐 Where to find me:~ </h3>
 
 <p><a href="https://github.com/Abhik004" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/abhik-samanta2004/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="abhiksamanta004@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
