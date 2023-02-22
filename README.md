@@ -24,7 +24,7 @@
   <p align="center">
    
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhik004&theme=tokyonight" alt="mystreak" >
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Abhik004&theme=dark)](https://git.io/streak-stats)
    <img src="https://github-readme-stats.vercel.app/api?username=abhik004&show_icons=true&theme=tokyonight" >
 
  
