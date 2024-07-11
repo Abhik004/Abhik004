@@ -1,32 +1,51 @@
-[![An image of @abhik004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhik004)](https://holopin.io/@abhik004)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-<p>Welcome to my page! </br> I'm Abhik Samanta, <b>CSE</b> from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Hooghly, West Bengal</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Bhubaneswar, Odisha</b>.</p>
-<p>Pursing B.tech CSE 💻 at <b>Kalinga Institute of Industrial Technology</b>. </p>
-
-<h3>🔍Things I code with ~</h3>
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </p>
-
-<p><h3>📜 Have basic knowledge of :~ </h3></p>  <p><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## Abhik Samanta
 
 
 
-<h3>🧐 Where to find me:~ </h3>
+### About Me
+👨‍💻 B.Tech CSE student at Kalinga Institute of Industrial Technology.
 
-<p><a href="https://github.com/Abhik004" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/abhik-samanta2004/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="abhiksamanta004@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+## Portfolio <a href="https://portfolio-kappa-flame-55.vercel.app/">here...</a>
 
-------------
-<h2>Stats~👀 </h2>
+### 💻 Things I work with
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUoG_7iACY_tbK5bD7SUpnmbfkOvBkQD1tQ&s" alt="GSAP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&logo=Github&logoColor=white" alt="git" width="60" height="40"/>
+</p>
 
-<div>
-  <p align="center">
-   
+### 🎨 Skills
+Basic knowledge of Photoshop for design work.
 
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Abhik004&theme=jolly)](https://git.io/streak-stats)
-   <img src="https://github-readme-stats.vercel.app/api?username=abhik004&show_icons=true&theme=jolly" >
+## Connect with Me
+<p>
+  <a href="https://github.com/Abhik004" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhik-samanta2004/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abhiksamanta004@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
 
- 
-  </p>
-</div>
+## 📈 Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Abhik004&theme=jolly)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhik004&show_icons=true&theme=jolly)
