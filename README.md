@@ -32,6 +32,9 @@
 
 Basic knowledge of Photoshop for design work.
 
+<hr/>
+<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Abhik004&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+
 ## Connect with Me
 <p>
   <a href="https://github.com/Abhik004" target="_blank">
