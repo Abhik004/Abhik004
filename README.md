@@ -6,9 +6,11 @@
 
 
 ### About Me
-👨‍💻 B.Tech CSE student at Kalinga Institute of Industrial Technology.
+👨‍💻 B.Tech CSE pre-final year grad at Kalinga Institute of Industrial Technology.
 
 ## Portfolio <a href="https://portfolio-kappa-flame-55.vercel.app/">here...</a>
+
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47v39aaou60acsq7157dihquw6rurm7xvdddjh56s4&rid=giphy.gif&ct=g">
 
 ### 💻 Things I work with  🎨 
 <p align="left"> 
@@ -31,8 +33,12 @@
 </p>
 
 Basic knowledge of Photoshop for design work.
-
 <hr/>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br>
+<hr/>
+
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Abhik004&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
 ## Connect with Me
