@@ -82,7 +82,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhik004&layout=compact&theme=jolly)
 <br>
 <div style="display: flex; flex-direction: row;">
-  <img src="https://streak-stats.demolab.com/?user=Abhik004&theme=jolly" alt="GitHub Streak" style="width: 48%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=abhik004&show_icons=true&theme=jolly" alt="GitHub Stats" style="width: 48%;" />
 </div>
 
