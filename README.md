@@ -1,44 +1,47 @@
-[![An image of @abhik004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhik004)](https://holopin.io/@abhik004)
-
 # Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 ## Abhik Samanta
 
-
-
 ### About Me
-👨‍💻 B.Tech CSE pre-final year grad at Kalinga Institute of Industrial Technology.
+👨‍💻 M.Tech in Data Science and Engineering @ NIT Jamshedpur<br>
+🎓 B.Tech CSE, KIIT University — CGPA 9.44
 
 ## Portfolio <a href="https://portfolio-kappa-flame-55.vercel.app/">here...</a>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47v39aaou60acsq7157dihquw6rurm7xvdddjh56s4&rid=giphy.gif&ct=g">
 
 ### 💻 Things I work with  🎨 
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUoG_7iACY_tbK5bD7SUpnmbfkOvBkQD1tQ&s" alt="GSAP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&logo=Github&logoColor=white" alt="git" width="60" height="40"/>
+
+### Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript" />
 </p>
-<hr/>
+
+### AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+`NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Jupyter`
+
+### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
 <hr/>
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Abhik004&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+
+<!-- Holopin badge removed. Spot reserved for a future certification / achievement badge set. -->
 
  <div align="center">
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -79,11 +82,25 @@
 </p>
 
 ## 📈 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhik004&layout=compact&theme=jolly)
-<br>
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhik004&show_icons=true&theme=jolly" alt="GitHub Stats" style="width: 48%;" />
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com/?user=Abhik004&theme=radical" alt="Abhik004's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/Abhik004" alt="Abhik004's Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhik004.Abhik004" alt="Visitor Count" />
 </div>
 
 
-
+<!--
+🐍 Contribution snake animation — requires a one-time GitHub Action setup, see note at the bottom of this file.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhik004/Abhik004/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhik004/Abhik004/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Abhik004/Abhik004/output/github-snake-light.svg" width="100%">
+</picture>
+-->
