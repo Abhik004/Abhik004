@@ -1,0 +1,31 @@
+name: Refresh animated profile cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0 * * *" # Daily at 00:17 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Render SVG cards from GitHub contribution data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python render_readme_cards.py
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add hero.svg build.svg brand.svg learn.svg activity.svg contributions.svg repo-1.svg repo-2.svg repo-3.svg
+          git diff --cached --quiet || git commit -m "chore: refresh animated profile cards"
+          git push
