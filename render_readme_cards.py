@@ -50,17 +50,62 @@ query($login: String!) {
 
 def fetch():
     token = os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN")
+
     if not token:
-        raise RuntimeError("Set GITHUB_TOKEN (the GitHub Actions workflow supplies it).")
-    body = json.dumps({"query": QUERY, "variables": {"login": USER}}).encode()
-    req = urllib.request.Request("https://api.github.com/graphql", data=body, headers={
-        "Authorization": f"Bearer {token}", "Content-Type": "application/json",
-        "User-Agent": "Abhik004-profile-svg-renderer"}, method="POST")
+        raise RuntimeError(
+            "Set GITHUB_TOKEN (the GitHub Actions workflow supplies it)."
+        )
+
+    body = json.dumps({
+        "query": QUERY,
+        "variables": {"login": USER}
+    }).encode()
+
+    req = urllib.request.Request(
+        "https://api.github.com/graphql",
+        data=body,
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json",
+            "User-Agent": "Abhik004-profile-svg-renderer"
+        },
+        method="POST"
+    )
+
     with urllib.request.urlopen(req, timeout=30) as r:
         result = json.loads(r.read().decode())
+
     if result.get("errors") or not result.get("data", {}).get("user"):
-        raise RuntimeError("GitHub GraphQL request failed: " + json.dumps(result.get("errors", result)))
-    return result["data"]["user"]
+        raise RuntimeError(
+            "GitHub GraphQL request failed: "
+            + json.dumps(result.get("errors", result))
+        )
+
+    user = result["data"]["user"]
+
+    # Calculate monthly contributions from daily contribution counts.
+    calendar = user["contributionsCollection"]["contributionCalendar"]
+
+    monthly_totals = {}
+
+    for week in calendar["weeks"]:
+        for day in week["contributionDays"]:
+            month_key = day["date"][:7]
+
+            monthly_totals[month_key] = (
+                monthly_totals.get(month_key, 0)
+                + day["contributionCount"]
+            )
+
+    # Add calculated totals to each month.
+    for month in calendar["months"]:
+        month_key = month["firstDay"][:7]
+
+        month["totalContributions"] = monthly_totals.get(
+            month_key, 0
+        )
+
+    return user
 
 
 def e(v):
