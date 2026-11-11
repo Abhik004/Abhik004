@@ -59,15 +59,60 @@ I enjoy working at the intersection of software engineering, data, and intellige
 
 ---
 
-## Selected work
+## 🚀 Selected Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3>🧬 NeuroGWAS</h3>
+
+**Brain Expression Analysis**
+
+Exploring the relationship between genetic associations and brain gene expression.
+
+<a href="https://github.com/Abhik004/NeuroGWAS-Brain-Expression-Analysis">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-3155F5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🧠 ResearchMind</h3>
+
+**Research & AI**
+
+An intelligent research-focused project.
+
+<a href="https://github.com/Abhik004/ResearchMind">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-3155F5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🤝 SkillExchange</h3>
+
+**Major Project**
+
+A skill-exchange project focused on connecting people through shared skills.
+
+<a href="https://github.com/Abhik004/Major_Project_SkillExchange">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-3155F5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/Abhik004/NeuroGWAS-Brain-Expression-Analysis"><img src="./repo-1.svg" width="32.5%" alt="NeuroGWAS: Do Different Brain Disorders Share a Gene-Expression Map?
-" /></a>
-  <a href="https://github.com/Abhik004?tab=repositories"><img src="./repo-2.svg" width="32.5%" alt="Featured repository two" /></a>
-  <a href="https://github.com/Abhik004?tab=repositories"><img src="./repo-3.svg" width="32.5%" alt="Featured repository three" /></a>
+  <a href="https://github.com/Abhik004?tab=repositories">
+    <b>EXPLORE ALL REPOSITORIES ↗</b>
+  </a>
 </p>
-<p align="center"><a href="https://github.com/Abhik004?tab=repositories">Explore all repositories ↗</a></p>
+
 
 ---
 
