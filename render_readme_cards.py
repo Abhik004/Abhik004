@@ -8,8 +8,45 @@ USER = "Abhik004"
 OUT = Path(__file__).resolve().parent
 BLUE, RED, YELLOW = "#3155F5", "#EF3934", "#FFC21B"
 INK, MUTED, PAPER = "#171717", "#777777", "#F5F4F0"
-QUERY = '''query($login:String!){user(login:$login){name login contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{date contributionCount}} months{name totalContributions}}} pinnedItems(first:3,types:[REPOSITORY]){nodes{... on Repository{name description url stargazerCount forkCount primaryLanguage{name color}}}}}}'''
-
+QUERY = '''
+query($login: String!) {
+  user(login: $login) {
+    name
+    login
+    contributionsCollection {
+      contributionCalendar {
+        totalContributions
+        weeks {
+          contributionDays {
+            date
+            contributionCount
+          }
+        }
+        months {
+          name
+          year
+          firstDay
+        }
+      }
+    }
+    pinnedItems(first: 3, types: [REPOSITORY]) {
+      nodes {
+        ... on Repository {
+          name
+          description
+          url
+          stargazerCount
+          forkCount
+          primaryLanguage {
+            name
+            color
+          }
+        }
+      }
+    }
+  }
+}
+'''
 
 def fetch():
     token = os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN")
